@@ -1,0 +1,17 @@
+{
+"main": {
+    "temp": 280.32,
+    "pressure": 1012,
+    },
+    
+    "weather": [
+
+    {
+        "id": 300,
+        "main": "Drizzle",
+        "description": "light intensity drizzle",
+        "icon": "09d"
+    }
+
+]
+}
