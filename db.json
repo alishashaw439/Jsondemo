@@ -4,14 +4,10 @@
     "pressure": 1012,
     },
     
-    "weather": 
-
-    {
+    "weather": {
         "id": 300,
         "main": "Drizzle",
-        "description": "light intensity drizzle",
-        
-    }
+        }
 
 
 
